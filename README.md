@@ -2,6 +2,8 @@
 
 Este é um pequeno projeto de **webchat** feito com **Vue 3** e **NodeJS**.  
 
+![App Screenshot](screenshot.png)
+
 ---
 
 ## 📦 Pré-requisitos
@@ -22,12 +24,14 @@ git clone https://github.com/erickdesant/webchat
 cd webchat
 npm install
 cd backend
-npm install
+npm install<img width="484" height="657" alt="screenshot" src="https://github.com/user-attachments/assets/26e99a15-106a-41d5-9934-f9471181bc19" />
+
 cd ..
 cd frontend
 npm install
 cd ..
 npm run dev
+
 
 
 
