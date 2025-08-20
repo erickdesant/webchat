@@ -21,3 +21,12 @@ Clone este repositório e instale as dependências:
 git clone https://github.com/erickdesant/webchat
 cd webchat
 npm install
+cd backend
+npm install
+cd ..
+cd frontend
+npm install
+cd ..
+npm run dev
+
+
