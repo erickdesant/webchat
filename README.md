@@ -1,4 +1,4 @@
-# 💬 ConnectaFast (Vue + Tailwind)
+# 💬 ConnectaFast (Vue + NodeJS)
 
 Este é um pequeno projeto de **webchat** feito com **Vue 3** e **NodeJS**.  
 
@@ -28,5 +28,6 @@ cd frontend
 npm install
 cd ..
 npm run dev
+
 
 
